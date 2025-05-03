@@ -1,0 +1,47 @@
+Profile:
+Motivated and detail-oriented Computer Science graduate student with a passion for building scalable and impactful software systems. Solid foundation in full-stack development, cloud computing, big data processing, and software engineering best practices.
+
+Education:
+University of Bridgeport | Bridgeport, CT | Jan 2024 – Dec 2025
+Master of Science in Computer Science
+
+St. Martin’s Engineering College | Hyderabad, India | Jul 2017 – Sep 2021
+Bachelor of Electronics and Communication Engineering
+
+Technology Stack:
+- Languages: Python, JavaScript
+- Web Frameworks: Flask, Node.js, RESTful APIs
+- Database: MySQL, MongoDB, PostgreSQL
+- Frontend: HTML, CSS, Bootstrap, React.js
+- Big Data & Cloud: Hadoop, Kafka, Hive, Spark, Azure Event Hubs
+- Tools: Docker, Git, Microsoft Visual Studio, VS Code
+- Data Visualization: Matplotlib, Pandas, Tableau, Power BI
+- Operating Systems: Windows, Linux/Unix
+
+Professional Experience:
+Prolifics Corporation Limited | Oct 2021 – Dec 2023
+- Conducted data analysis on telecom network performance, identifying and resolving connectivity issues and reducing downtime by 15%.
+- Supported setup and maintenance of telecom infrastructure, gaining exposure to network operations and compliance.
+- Coordinated daily tools and technical material support to enhance workflow efficiency for field teams.
+
+Internship:
+Bharat Sanchar Nigam Limited (BSNL) | June 2019 – July 2019
+- Trained in broadband architecture, networking, and telecommunications protocols (GSM/CDMA, 3G/4G).
+
+Academic Project:
+Classroom Reservation System (Academic Project)
+- Developed a role-based web app for booking classrooms using Flask (Python) and MySQL backend.
+- Built secure login/registration flows for both Admin and Student users with session-based authentication.
+- Implemented an Admin panel for reservation approval/rejection and a Student dashboard to track booking statuses.
+- Designed normalized database schema with 12+ relational tables and optimized SQL queries for schedule conflict resolution.
+
+Side Project:
+Integration of Kafka with Azure Event Hub
+- Developed an integration bridge between on-premise Kafka clusters and Azure Event Hub.
+- Set up Kafka producers and consumers, handling schema evolution, serialization, and message retention policies.
+
+Certifications:
+- Data Engineering with Google Cloud (Coursera)
+- Big Data Specialization (Coursera)
+- Apache Spark for Beginners (Coursera)
+- Hadoop Platform and Application Framework (Coursera)
