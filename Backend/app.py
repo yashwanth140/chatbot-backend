@@ -14,6 +14,11 @@ def chat():
     except Exception as e:
         print(f"[ERROR] Failed to generate chat reply: {e}")
         return jsonify({"reply": "Internal server error occurred."}), 500
+    
+@app.route("/")
+def home():
+    return jsonify({"message": "Mistral backend is running."})
+
 
 if __name__ == '__main__':
     app.run(debug=True, host='0.0.0.0', port=5000)  # Expose on VM IP
